@@ -9,7 +9,7 @@ Some sort algorithms implemented by java.
 * Quick Sort
 
 | Algorithm      | Time(Average)        | Time(Worst)          | Time(Best)           | Space                | Stability |
-| ---            | ---                  | ---                  | ---                  | ---                  | ---       |
+| :----:         | :----:               | :----:               | :----:               | :----:               | :----:    |
 | Bubble Sort    | O(n<sup>2</sup>)     | O(n<sup>2</sup>)     | O(n)                 | O(1)                 | Stable    |
 | Selection Sort | O(n<sup>2</sup>)     | O(n<sup>2</sup>)     | O(n<sup>2</sup>)     | O(1)                 | Unstable  |
 | Insertion Sort | O(n<sup>2</sup>)     | O(n<sup>2</sup>)     | O(n)                 | O(1)                 | Stable    |
